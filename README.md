@@ -22,7 +22,7 @@ another function, `distanceFromHqInFeet`, that translates the number of blocks
 from headquarters to the distance in feet. Each block in Manhattan is 264 feet
 long.
 
-Next, customers want Scuber to calculate the number of feet travelled based on
+Next, customers want Scuber to calculate the number of feet traveled based on
 the distance. Write a function called `distanceTravelledInFeet` that takes in
 both the start and destination blocks, and returns the number of feet travelled.
 Remember, each block in Manhattan is 264 feet long. For example
@@ -71,7 +71,7 @@ function distanceFromHqInFeet(someValue) {
 
   ```js
   function distanceTravelledInFeet(start, destination) {
-    //returns the number of feet traveled
+    //returns the number of feet travelled
   }
   ```
 
